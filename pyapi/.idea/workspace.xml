@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ea9e21c-6610-4388-9d9c-71af03479731" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ggVAOekNIMd1Mb360afSgN7XB9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="pyapi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../env/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="debag_tamir" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyapi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/validator/views.py" />
+      <option name="PARAMETERS" value="shell" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pyapi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../env/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.manage" />
+      <item itemvalue="Python.debag_tamir" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.debag_tamir" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ea9e21c-6610-4388-9d9c-71af03479731" name="Default Changelist" comment="" />
+      <created>1598536077278</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598536077278</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="183" width="1071" height="699" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598543961671">
+      <screen x="0" y="23" width="2560" height="993" />
+    </state>
+    <state x="104" y="183" width="1071" height="699" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.993/-1680.405.1680.1027@0.23.2560.993" timestamp="1598543961671" />
+    <state x="427" y="246" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1598543450131">
+      <screen x="0" y="23" width="2560" height="993" />
+    </state>
+    <state x="427" y="246" key="#com.intellij.ide.macro.MacrosDialog/0.23.2560.993/-1680.405.1680.1027@0.23.2560.993" timestamp="1598543450131" />
+    <state width="524" height="466" key="DebuggerActiveHint" timestamp="1598549086629">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="524" height="466" key="DebuggerActiveHint/0.23.2560.1057/-1680.405.1680.963@0.23.2560.1057" timestamp="1598549086629" />
+    <state width="524" height="466" key="DebuggerActiveHint/0.23.2560.1057/-1680.405.1680.964@0.23.2560.1057" timestamp="1598548774674" />
+    <state width="1259" height="332" key="GridCell.Tab.0.bottom" timestamp="1598554008738">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1259" height="332" key="GridCell.Tab.0.bottom/0.23.2560.1057/-1680.405.1680.963@0.23.2560.1057" timestamp="1598552561339" />
+    <state width="1259" height="332" key="GridCell.Tab.0.bottom/0.23.2560.1057/-1680.405.1680.964@0.23.2560.1057" timestamp="1598554008738" />
+    <state width="1259" height="269" key="GridCell.Tab.0.bottom/0.23.2560.993/-1680.405.1680.1027@0.23.2560.993" timestamp="1598544529944" />
+    <state width="1259" height="332" key="GridCell.Tab.0.center" timestamp="1598554008738">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1259" height="332" key="GridCell.Tab.0.center/0.23.2560.1057/-1680.405.1680.963@0.23.2560.1057" timestamp="1598552561337" />
+    <state width="1259" height="332" key="GridCell.Tab.0.center/0.23.2560.1057/-1680.405.1680.964@0.23.2560.1057" timestamp="1598554008738" />
+    <state width="1259" height="269" key="GridCell.Tab.0.center/0.23.2560.993/-1680.405.1680.1027@0.23.2560.993" timestamp="1598544529943" />
+    <state width="1259" height="332" key="GridCell.Tab.0.left" timestamp="1598554008737">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1259" height="332" key="GridCell.Tab.0.left/0.23.2560.1057/-1680.405.1680.963@0.23.2560.1057" timestamp="1598552561337" />
+    <state width="1259" height="332" key="GridCell.Tab.0.left/0.23.2560.1057/-1680.405.1680.964@0.23.2560.1057" timestamp="1598554008737" />
+    <state width="1259" height="269" key="GridCell.Tab.0.left/0.23.2560.993/-1680.405.1680.1027@0.23.2560.993" timestamp="1598544529942" />
+    <state width="1259" height="332" key="GridCell.Tab.0.right" timestamp="1598554008738">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1259" height="332" key="GridCell.Tab.0.right/0.23.2560.1057/-1680.405.1680.963@0.23.2560.1057" timestamp="1598552561338" />
+    <state width="1259" height="332" key="GridCell.Tab.0.right/0.23.2560.1057/-1680.405.1680.964@0.23.2560.1057" timestamp="1598554008738" />
+    <state width="1259" height="269" key="GridCell.Tab.0.right/0.23.2560.993/-1680.405.1680.1027@0.23.2560.993" timestamp="1598544529944" />
+    <state width="1259" height="332" key="GridCell.Tab.1.bottom" timestamp="1598554008740">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1259" height="332" key="GridCell.Tab.1.bottom/0.23.2560.1057/-1680.405.1680.963@0.23.2560.1057" timestamp="1598552575331" />
+    <state width="1259" height="332" key="GridCell.Tab.1.bottom/0.23.2560.1057/-1680.405.1680.964@0.23.2560.1057" timestamp="1598554008740" />
+    <state width="1259" height="332" key="GridCell.Tab.1.bottom/0.23.2560.993/-1680.405.1680.1027@0.23.2560.993" timestamp="1598544528060" />
+    <state width="1259" height="332" key="GridCell.Tab.1.center" timestamp="1598554008739">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1259" height="332" key="GridCell.Tab.1.center/0.23.2560.1057/-1680.405.1680.963@0.23.2560.1057" timestamp="1598552575329" />
+    <state width="1259" height="332" key="GridCell.Tab.1.center/0.23.2560.1057/-1680.405.1680.964@0.23.2560.1057" timestamp="1598554008739" />
+    <state width="1259" height="332" key="GridCell.Tab.1.center/0.23.2560.993/-1680.405.1680.1027@0.23.2560.993" timestamp="1598544528060" />
+    <state width="1259" height="332" key="GridCell.Tab.1.left" timestamp="1598554008739">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1259" height="332" key="GridCell.Tab.1.left/0.23.2560.1057/-1680.405.1680.963@0.23.2560.1057" timestamp="1598552575329" />
+    <state width="1259" height="332" key="GridCell.Tab.1.left/0.23.2560.1057/-1680.405.1680.964@0.23.2560.1057" timestamp="1598554008739" />
+    <state width="1259" height="332" key="GridCell.Tab.1.left/0.23.2560.993/-1680.405.1680.1027@0.23.2560.993" timestamp="1598544528059" />
+    <state width="1259" height="332" key="GridCell.Tab.1.right" timestamp="1598554008739">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state width="1259" height="332" key="GridCell.Tab.1.right/0.23.2560.1057/-1680.405.1680.963@0.23.2560.1057" timestamp="1598552575330" />
+    <state width="1259" height="332" key="GridCell.Tab.1.right/0.23.2560.1057/-1680.405.1680.964@0.23.2560.1057" timestamp="1598554008739" />
+    <state width="1259" height="332" key="GridCell.Tab.1.right/0.23.2560.993/-1680.405.1680.1027@0.23.2560.993" timestamp="1598544528060" />
+    <state x="1290" y="114" key="SettingsEditor" timestamp="1598538442017">
+      <screen x="0" y="23" width="2560" height="993" />
+    </state>
+    <state x="1290" y="114" key="SettingsEditor/0.23.2560.993/-1680.405.1680.1027@0.23.2560.993" timestamp="1598538442017" />
+    <state x="305" y="242" width="670" height="676" key="search.everywhere.popup" timestamp="1598547512101">
+      <screen x="0" y="23" width="2560" height="1057" />
+    </state>
+    <state x="305" y="242" width="670" height="676" key="search.everywhere.popup/0.23.2560.1057/-1680.405.1680.964@0.23.2560.1057" timestamp="1598547512101" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/validator/views.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="response" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
