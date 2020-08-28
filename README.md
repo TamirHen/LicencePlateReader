@@ -1,5 +1,6 @@
 # MoonActiveTask - Tamir Hen
-<br/>
+ 
+ 
 ## steps to run django server in Windows env
 1. Clone the repository and download python.
 2. Open cmd and run the following commands:<br/>
@@ -9,7 +10,8 @@
 	d. cd {your-path}/MoonActiveTask/pyapi<br/>
 	e. pip install requests<br/>
 	f. python manage.py runserver<br/>
-<br/>
+	
+	
 ## Steps to run django server in MacOS env
 1. Clone the repository and download python.
 2. Open terminal and run the following commands:<br/>
@@ -20,7 +22,8 @@
 	e. cd pyapi<br/>
 	f. python manage.py runserver<br/>
 	
-<br/>
+	
+	
 ## Run vehicle validator service
 Open postman and send a post request to 'http://localhost:8000/vehicle_validation' with json type body:<br/>
 {<br/>
@@ -35,7 +38,8 @@ Open postman and send a post request to 'http://localhost:8000/vehicle_validatio
 5.jpg - NOT VALID: Public transportation<br/>
 6.jpg - NOT VALID: Military and law<br/>
 13.png - NOT VALID: Operated by gas<br/>
-<br/>
+
+
 ## Database
 DB type: SQLite<br/>
 Location: ./MoonActiveTask/pyapi/db.sqlite3
