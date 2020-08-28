@@ -1,7 +1,7 @@
 # MoonActiveTask - Tamir Hen
  
  
-## steps to run django server in Windows env
+## Steps to run django server in Windows env
 1. Clone the repository and download python.
 2. Open cmd and run the following commands:<br/>
 	a. pip install virtualenvwrapper-win<br/>
@@ -30,7 +30,7 @@ Open postman and send a post request to 'http://localhost:8000/vehicle_validatio
 	"path" : "{yourpath}/MoonActiveTask/images/{wanted-image}"<br/>
 }<br/>
 
-### image map:
+### Image map:
 1.jpg: VALID<br/>
 2.jpeg: VALID<br/>
 <br/>
